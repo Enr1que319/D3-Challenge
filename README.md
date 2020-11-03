@@ -21,11 +21,9 @@ The platform used to mount the web page is Github
 
 ## Data
 
-The information used is from the years 2016, 2017 and 2018 and is in a SQLite database and in .json format files, these can be found in the "Resources" folder, this was provided by Tecnológico de Monterrey.
-With this the analysis was performed as well as the REST API
-SQLite Database
+The information used was provided by Tecnológico de Monterrey and it is in CSV format, you can see the schema below.
 
-#### Measurement Table
+#### Schema
 
 
 |  Column  | Data Type |
