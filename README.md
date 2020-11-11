@@ -10,7 +10,7 @@ The graph as well as the conclusions can be consulted here -> [Medical Analysis]
 
 ### Tools
 
-The following tools were used to do the analysis
+The following tools were used to do the analysis:
 
 - HTML5
 - CSS
