@@ -21,7 +21,7 @@ The platform used to mount the web page is Github
 
 ## Data
 
-The information used was provided by Tecnológico de Monterrey and it is in CSV format, you can see the schema below.
+The information used was provided by Tecnológico de Monterrey and it is in CSV format, you can see the schema below
 
 #### Schema
 
